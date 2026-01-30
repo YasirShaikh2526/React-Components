@@ -1,0 +1,28 @@
+.Card{
+  height: 20vh;
+  width: 30vw;
+  background-color: black;
+  color: white;
+}
+
+.App-Card{
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.App-Card h1{
+  font-size: 22px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.btn{
+  height: 60px;
+  width: 95px;
+  background-color: grey;
+  color: black;
+  border-radius: 22px;
+}
